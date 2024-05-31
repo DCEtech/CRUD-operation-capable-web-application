@@ -1,6 +1,6 @@
 <h1 align="center" id="title">CRUD-operation-capable-web-application using Flask</h1>
 
-<p id="description">This a simple project to undertand the framework Flask.</p>
+<p id="description">This is a simple project to understand the framework Flask.</p>
 
 <h2>Project Screenshots:</h2>
 
