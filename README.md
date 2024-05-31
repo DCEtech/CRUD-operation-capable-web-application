@@ -21,5 +21,5 @@ Here're some of the project's best features:
 
 Technologies used in the project:
 
-*   Flaks
+*   Flask
 *   Python
