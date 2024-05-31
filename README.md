@@ -4,9 +4,9 @@
 
 <h2>Project Screenshots:</h2>
 
-<img src="file:///C:/Users/dceju/Desktop/Transaction%20records.png" alt="project-screenshot" width="400" height="400/">
+![Transaction records](https://github.com/DCEtech/CRUD-operation-capable-web-application/assets/143337688/c426a649-8c9c-48c5-a07b-09fd1983af8f)
 
-  
+
   
 <h2>🧐 Features</h2>
 
