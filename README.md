@@ -13,7 +13,7 @@
 Here're some of the project's best features:
 
 *   CRUD operations in web applications using Flask
-*   Knowledg about GET and POST requets in Flask
+*   Knowledge about GET and POST request in Flask
 
   
   
